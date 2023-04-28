@@ -157,7 +157,6 @@ No known bugs at this time.
 Chibuzo Ashiegbu - [Github](https://github.com/Ashiegbu) / [Twitter](https://twitter.com/Chi_Ash) / [Email](chibuch@gmail.com)  
 Ebenezer Ogidiolu - [Github](https://github.com/) / [Twitter](https://twitter.com/) / [Email](ogidioluebenezer@gmail.com)
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection.
 
