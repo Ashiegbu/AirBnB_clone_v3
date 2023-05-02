@@ -22,7 +22,7 @@ An ALX Software Engineering programme team project. The RESTful API is the third
 This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
 
 ## Installation
-* Clone this repository: `git clone "https://github.com/alexaorrico/AirBnB_clone.git"`
+* Clone this repository: `git clone "https://github.com/Ashiegbu/AirBnB_clone.git"`
 * Access AirBnb directory: `cd AirBnB_clone`
 * Run hbnb(interactively): `./console` and enter command
 * Run hbnb(non-interactively): `echo "<command>" | ./console.py`
@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time.
 
 ## Authors
-Chibuzo Ashiegbu - [Github](https://github.com/Ashiegbu) / [Twitter](https://twitter.com/Chi_Ash) / [Email](chibuch@gmail.com)  
-Ebenezer Ogidiolu - [Github](https://github.com/) / [Twitter](https://twitter.com/) / [Email](ogidioluebenezer@gmail.com)
+Chibuzo Ashiegbu - [Github](https://github.com/Ashiegbu) / [Twitter](https://twitter.com/Chi_Ash) / [Email](chibuch@gmail.com)
+Ebenezer Ogidiolu - [Github](https://github.com/dsoft02) / [Twitter](https://twitter.com/itsDsoft) / [Email](ogidioluebenezer@gmail.com)
 
 ## License
 Public Domain. No copy write protection.
